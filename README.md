@@ -4,9 +4,9 @@
 ## 👨‍💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=lua,mysql,js,html,css,jquery,md,nodejs)](https://skillicons.dev)
 ## 🤯 Learning
-[![My Skills](https://skillicons.dev/icons?i=figma,react,ts,redux,redis,regex,sass,solidjs,svelte,tailwind,vite,vue)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=figma,react,ts,redux,redis,regex,sass,solidjs,svelte,tailwind,vite,vue)](https://skillicons.dev)
 
-## ⚙ Ferramentas
+## ⚙ Tools
 [![Tools](https://skillicons.dev/icons?i=idea,gitlab,github,git,windows,vscode)](https://skillicons.dev)
 
 <!--
