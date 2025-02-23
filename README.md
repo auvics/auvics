@@ -2,11 +2,11 @@
 ![Auvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=auvics&theme=nord&show_icons=true)
 
 ## 👨‍💻 Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lua,mysql,js,html,jquery,md,nodejs&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lua,mysql,mariadb,js,html,jquery,markdown,nodejs&theme=dark)
 ## 🤯 Learning
-![Learning](https://go-skill-icons.vercel.app/api/icons?i=figma,react,ts,redux,redis,regex,sass,solidjs,svelte,tailwind,vite,vue&theme=dark)
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=figma,react,typescript,nextjs,redux,redis,regex,sass,solidjs,svelte,tailwindcss,vite,vuejs,postgresql&theme=dark)
 ## ⚙ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=idea,gitlab,github,git,windows,vscode,fork&theme=dark)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=idea,datagrip,gitlab,github,git,windows,vscode&theme=dark)
 
 <!--
 **auvics/auvics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
