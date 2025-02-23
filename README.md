@@ -1,5 +1,12 @@
 ## Bem-vindo(a) 👋
-![Auvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=auvics&theme=dark&show_icons=true)
+![Auvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=auvics&theme=nord&show_icons=true)
+
+## Habilidades 👨‍💻
+[![My Skills](https://skillicons.dev/icons?i=lua,mysql,js,html,css,jquery,md,nodejs)](https://skillicons.dev)
+
+## Ferramentas ⚙
+[![Tools](https://skillicons.dev/icons?i=idea,gitlab,github,git,windows,vscode)](https://skillicons.dev)
+
 <!--
 **auvics/auvics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
