@@ -3,12 +3,10 @@
 
 ## 👨‍💻 Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lua,mysql,js,html,jquery,md,nodejs&theme=dark)
-[![My Skills](https://skillicons.dev/icons?i=lua,mysql,js,html,css,jquery,md,nodejs)](https://skillicons.dev)
 ## 🤯 Learning
-[![Learning](https://skillicons.dev/icons?i=figma,react,ts,redux,redis,regex,sass,solidjs,svelte,tailwind,vite,vue)](https://skillicons.dev)
-
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=figma,react,ts,redux,redis,regex,sass,solidjs,svelte,tailwind,vite,vue&theme=dark)
 ## ⚙ Tools
-[![Tools](https://skillicons.dev/icons?i=idea,gitlab,github,git,windows,vscode)](https://skillicons.dev)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=idea,gitlab,github,git,windows,vscode,fork&theme=dark)
 
 <!--
 **auvics/auvics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
