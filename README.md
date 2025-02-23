@@ -2,6 +2,7 @@
 ![Auvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=auvics&theme=nord&show_icons=true)
 
 ## 👨‍💻 Skills
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lua,mysql,js,html,jquery,md,nodejs&theme=dark)
 [![My Skills](https://skillicons.dev/icons?i=lua,mysql,js,html,css,jquery,md,nodejs)](https://skillicons.dev)
 ## 🤯 Learning
 [![Learning](https://skillicons.dev/icons?i=figma,react,ts,redux,redis,regex,sass,solidjs,svelte,tailwind,vite,vue)](https://skillicons.dev)
