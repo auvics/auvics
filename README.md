@@ -1,4 +1,5 @@
 ## Yo 👋
+Welcome to my profile, hope you enjoy and find what you're looking for. :)
 
 ## Stack
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lua,mysql,mariadb,js,html,jquery,css,markdown,nodejs&theme=dark)
