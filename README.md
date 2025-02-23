@@ -8,6 +8,9 @@
 ## ⚙ Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=idea,datagrip,gitlab,github,git,windows,vscode&theme=dark)
 
+<div> 
+    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
 <!--
 **auvics/auvics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
